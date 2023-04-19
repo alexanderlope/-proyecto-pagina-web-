@@ -1,4 +1,4 @@
-proyecto "creación de página web"
+Proyecto "creación de página web"
 Creación de una página web para la materia lenguaje de marcado y diseño web de la Universidad Don Bosco
 
 - [página web creada] https://burger-friends.000webhostapp.com/index.html
@@ -11,7 +11,7 @@ Herramientas
 
 - [lucichart] https://www.lucidchart.com/pages/es - creador de mockups
 
-guía de instalación
+Guía de instalación
 
 Antes de comenzar, Asegúrese de tener lo siguiente:
 
