@@ -7,27 +7,27 @@ Herramientas
 
 - [visual code studio] https://code.visualstudio.com/ - IDE de desarrollo
 
--[000webhost] https://www.000webhost.com/ - página de hosting gratuito
+- [000webhost] https://www.000webhost.com/ - página de hosting gratuito
 
--[lucichart] https://www.lucidchart.com/pages/es - creador de mockups
+- [lucichart] https://www.lucidchart.com/pages/es - creador de mockups
 
 guía de instalación
 
 Antes de comenzar, Asegúrese de tener lo siguiente:
 
--visual code studio instalado
+- visual code studio instalado
 
--tener cuenta de 000webhost y lucichart
+- tener cuenta de 000webhost y lucichart
 
--crear una carpeta para almacenar los archivos creados con visual code studio
+- crear una carpeta para almacenar los archivos creados con visual code studio
 
 Desarrolladores
 
--Enrique Alexander Solano López
+- Enrique Alexander Solano López
 
--Saul Isaías Ayala Campos
+- Saul Isaías Ayala Campos
 
--Lilian Alejandra Montoya Mazariegos
+- Lilian Alejandra Montoya Mazariegos
 
 Licencia
 
