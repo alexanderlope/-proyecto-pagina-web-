@@ -37,10 +37,10 @@ Que significa un individuo o una entidad legal que ejerce derechos bajo esta Lic
 
 Enlaces de interés
 
-- [Manual de usuario] https://drive.google.com/file/d/1GBGkaMh3S9SyHhafne83KahGT-8PaA42/view?usp=share_link
+- [Manual de usuario] https://drive.google.com/file/d/17EW34e4UQGmvJlds3LBRvmmJz-DsJ4Eg/view?usp=sharing
 
-- [Manual técnico] https://drive.google.com/file/d/1oacy-KCoM02x4UXUzDt3vmnwyrxnEg0y/view?usp=share_link
+- [Manual técnico] https://drive.google.com/file/d/1ocC2lovgjwPDEsNB8U4trK8pN22EwIT9/view?usp=sharing
 
-- [Mockups] https://drive.google.com/file/d/1dGVEfk-eStcQigBd4B35GFOPBMHf7H4g/view?usp=share_link
+- [Mockups] https://drive.google.com/file/d/1Oh_mGJeZcX-urTyvQq262OoQyTdgdtaT/view?usp=sharing
 
 - [Tabla Trello] https://trello.com/invite/b/Wpaiu1P5/ATTIe2e504ca2ea57c6efe9305d569869b7c11B5E959/proyecto-creacion-de-pagina-web
