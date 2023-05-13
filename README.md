@@ -21,7 +21,7 @@ Antes de comenzar, Asegúrese de tener lo siguiente:
 
 - crear una carpeta para almacenar los archivos creados con visual code studio
 
-Desarrolladores (Grupo Teorico n° 6 color: naranja)
+Desarrolladores (Grupo Teorico n° 2 color: amarillo)
 
 - Enrique Alexander Solano López
 
